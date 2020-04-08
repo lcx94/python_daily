@@ -28,7 +28,14 @@ def translate():
         content_eng = pytesseract.image_to_string(Image.open(img_result), lang='eng')
         print(content_eng)
 
-        #
+        # 翻译
+        translator = Translator(service_urls=['translate.google.cn'])
+        content_chinese = translator.translate(content_eng, src='en', dest='zh-cn').text
+
+        # 显示
+        root = Tk()
+        root.withdraw()
+        tkinter.messagebox.showinfo('翻译结果', content_chinese)
 
 
 if __name__ == '__main__':

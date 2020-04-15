@@ -16,6 +16,7 @@ Change Activity:
 def merge(nums1, m, nums2, n):
     del nums1[m:]
     nums1 = sorted(nums1 + nums2)
+    return nums1
 
 
 if __name__ == '__main__':

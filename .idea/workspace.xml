@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a25519c7-17f5-497c-a240-63c7c80156b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_structure/2020-04/20200416/path_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/2020-04/20200412/second_highest_salary_sql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200416/path_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="834">
+              <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200412/second_highest_salary_sql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -50,6 +59,7 @@
         <option value="$PROJECT_DIR$/data_structure/2020-04/20200415/buy_sell_stock_2.py" />
         <option value="$PROJECT_DIR$/data_structure/2020-04/20200411/pascal_triangle.py" />
         <option value="$PROJECT_DIR$/data_structure/2020-04/20200416/path_sum.py" />
+        <option value="$PROJECT_DIR$/data_structure/2020-04/20200412/second_highest_salary_sql.py" />
       </list>
     </option>
   </component>
@@ -87,7 +97,7 @@
               <item name="python_daily" type="462c0819:PsiDirectoryNode" />
               <item name="data_structure" type="462c0819:PsiDirectoryNode" />
               <item name="2020-04" type="462c0819:PsiDirectoryNode" />
-              <item name="20200416" type="462c0819:PsiDirectoryNode" />
+              <item name="20200412" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -256,12 +266,12 @@
       <workItem from="1586226025667" duration="309000" />
       <workItem from="1586226442991" duration="16172000" />
       <workItem from="1586596817243" duration="5304000" />
-      <workItem from="1587003873876" duration="516000" />
+      <workItem from="1587003873876" duration="1429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27160000" />
+    <option name="totallyTimeSpent" value="28073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1166" extended-state="6" />
@@ -401,8 +411,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200416/path_sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="834">
+          <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200412/second_highest_salary_sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>

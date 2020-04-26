@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a25519c7-17f5-497c-a240-63c7c80156b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/2020-04/20200425/reverse_string_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="349">
+              <caret line="43" column="39" lean-forward="true" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200425/reverse_string_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -89,6 +98,7 @@
         <option value="$PROJECT_DIR$/data_structure/2020-04/20200424/add_strings.py" />
         <option value="$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_@.py" />
         <option value="$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_2.py" />
+        <option value="$PROJECT_DIR$/data_structure/2020-04/20200425/reverse_string_3.py" />
       </list>
     </option>
   </component>
@@ -126,7 +136,7 @@
               <item name="python_daily" type="462c0819:PsiDirectoryNode" />
               <item name="data_structure" type="462c0819:PsiDirectoryNode" />
               <item name="2020-04" type="462c0819:PsiDirectoryNode" />
-              <item name="20200426" type="462c0819:PsiDirectoryNode" />
+              <item name="20200425" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reverse_string_2">
+  <component name="RunManager" selected="Python.reverse_string_3">
     <configuration name="add_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,28 +215,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="power_of_four" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_daily" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-04/20200417" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-04/20200417/power_of_four.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="reverse_string_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,6 +229,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reverse_string_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_daily" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-04/20200425" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-04/20200425/reverse_string_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reverse_string_3" />
         <item itemvalue="Python.reverse_string_2" />
         <item itemvalue="Python.add_strings" />
         <item itemvalue="Python.rotate_array" />
         <item itemvalue="Python.intersection_of_two_linked_list" />
-        <item itemvalue="Python.power_of_four" />
       </list>
     </recent_temporary>
   </component>
@@ -301,16 +311,15 @@
       <workItem from="1587547615511" duration="723000" />
       <workItem from="1587605292582" duration="1135000" />
       <workItem from="1587689353783" duration="1439000" />
-      <workItem from="1587865166792" duration="1610000" />
+      <workItem from="1587865166792" duration="2155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38418000" />
+    <option name="totallyTimeSpent" value="38963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1166" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2749501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -359,6 +368,7 @@
     <SUITE FILE_PATH="coverage/python_daily$reverse_vowels_of_string.coverage" NAME="reverse_vowels_of_string Coverage Results" MODIFIED="1587347912871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200418" />
     <SUITE FILE_PATH="coverage/python_daily$rotate_array.coverage" NAME="rotate_array Coverage Results" MODIFIED="1587690248982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200422" />
     <SUITE FILE_PATH="coverage/python_daily$merge_sorted_array.coverage" NAME="merge-sorted-array Coverage Results" MODIFIED="1586512520377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200410" />
+    <SUITE FILE_PATH="coverage/python_daily$reverse_string_3.coverage" NAME="reverse_string_3 Coverage Results" MODIFIED="1587867309673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200425" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/python_practice/screen_shot_translate/img/temp.png">
@@ -534,8 +544,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="349">
+          <caret line="43" column="39" lean-forward="true" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200425/reverse_string_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
         </state>
       </provider>
     </entry>

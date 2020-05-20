@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a25519c7-17f5-497c-a240-63c7c80156b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_structure/2020-04/20200425/reverse_string_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/2020-05/20200518/repeated_string_match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/2020-05/20200520/add_two_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,47 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200422/rotate_array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200423/rising_temperature.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1000">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200424/add_strings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
-              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="43" column="39" lean-forward="true" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200425/reverse_string_3.py">
+        <entry file="file://$PROJECT_DIR$/data_structure/2020-05/20200518/repeated_string_match.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="549">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_structure/2020-05/20200520/add_two_numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -99,14 +73,16 @@
         <option value="$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_@.py" />
         <option value="$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_2.py" />
         <option value="$PROJECT_DIR$/data_structure/2020-04/20200425/reverse_string_3.py" />
+        <option value="$PROJECT_DIR$/data_structure/2020-05/20200520/add_two_numbers.py" />
+        <option value="$PROJECT_DIR$/data_structure/2020-05/20200518/repeated_string_match.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="2580" />
-    <option name="height" value="1460" />
+    <option name="x" value="687" />
+    <option name="y" value="405" />
+    <option name="width" value="1740" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -135,8 +111,14 @@
               <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_daily" type="462c0819:PsiDirectoryNode" />
               <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="2020-04" type="462c0819:PsiDirectoryNode" />
-              <item name="20200425" type="462c0819:PsiDirectoryNode" />
+              <item name="2020-05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="2020-05" type="462c0819:PsiDirectoryNode" />
+              <item name="20200518" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reverse_string_3">
+  <component name="RunManager" selected="Python.repeated_string_match">
     <configuration name="add_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="intersection_of_two_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="repeated_string_match" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,12 +183,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-04/20200421" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-05/20200518" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-04/20200421/intersection_of_two_linked_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-05/20200518/repeated_string_match.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.repeated_string_match" />
         <item itemvalue="Python.reverse_string_3" />
         <item itemvalue="Python.reverse_string_2" />
         <item itemvalue="Python.add_strings" />
         <item itemvalue="Python.rotate_array" />
-        <item itemvalue="Python.intersection_of_two_linked_list" />
       </list>
     </recent_temporary>
   </component>
@@ -311,17 +293,20 @@
       <workItem from="1587547615511" duration="723000" />
       <workItem from="1587605292582" duration="1135000" />
       <workItem from="1587689353783" duration="1439000" />
-      <workItem from="1587865166792" duration="2155000" />
+      <workItem from="1587865166792" duration="2343000" />
+      <workItem from="1589784343493" duration="1255000" />
+      <workItem from="1589937263605" duration="2562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38963000" />
+    <option name="totallyTimeSpent" value="42968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1166" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2749501" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1996008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,6 +330,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,6 +341,7 @@
     <SUITE FILE_PATH="coverage/python_daily$intersection_of_two_arrays.coverage" NAME="intersection_of_two_arrays Coverage Results" MODIFIED="1587345344128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200420" />
     <SUITE FILE_PATH="coverage/python_daily$buy_sell_stock.coverage" NAME="buy_sell_stock Coverage Results" MODIFIED="1586858490961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200414" />
     <SUITE FILE_PATH="coverage/python_daily$reverse_string_2.coverage" NAME="reverse_string_2 Coverage Results" MODIFIED="1587866729493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200426" />
+    <SUITE FILE_PATH="coverage/python_daily$repeated_string_match.coverage" NAME="repeated_string_match Coverage Results" MODIFIED="1589940105789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-05/20200518" />
     <SUITE FILE_PATH="coverage/python_daily$power_of_four.coverage" NAME="power_of_four Coverage Results" MODIFIED="1587348354166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200417" />
     <SUITE FILE_PATH="coverage/python_daily$pascal_triangle.coverage" NAME="pascal_triangle Coverage Results" MODIFIED="1586917312747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200411" />
     <SUITE FILE_PATH="coverage/python_daily$intersection_of_two_linked_list.coverage" NAME="intersection_of_two_linked_list Coverage Results" MODIFIED="1587431938940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200421" />
@@ -551,8 +538,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200425/reverse_string_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="324">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure/2020-05/20200520/add_two_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure/2020-05/20200518/repeated_string_match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>

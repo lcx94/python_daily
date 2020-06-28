@@ -1,28 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a25519c7-17f5-497c-a240-63c7c80156b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_structure/2020-05/20200519/valid_parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/2020-06/20200628/remove_all_adjacent_duplicates_in_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_daily.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_daily.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data_structure/2020-05/20200519/valid_parentheses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,117 +40,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/python_practice/screen_shot_translate/main.py" />
-        <option value="$PROJECT_DIR$/data_structure/20200407/leetcode-add-tow-numbers.py" />
-        <option value="$PROJECT_DIR$/data_structure/20200407/length_of_last_word.py" />
-        <option value="$PROJECT_DIR$/python_practice/screen_shot_translate/trans.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200408/search_in_position.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200409/maximum_subarray.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200409/maximum_subarray_nlogn.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200409/maximum_subarray_n.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200410/merge-sorted-array.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200414/buy_sell_stock.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200415/buy_sell_stock_2.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200411/pascal_triangle.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200416/path_sum.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200412/second_highest_salary_sql.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200413/delete_duplicate_emails.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200420/intersection_of_two_arrays.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200419/intersection_of_two_arrays_2.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200418/reverse_vowels_of_string.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200417/power_of_four.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200421/intersection_of_two_linked_list.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200422/rotate_array.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200423/rising_temperature.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200424/add_strings.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_@.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_2.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-04/20200425/reverse_string_3.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-05/20200520/add_two_numbers.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-05/20200518/repeated_string_match.py" />
-        <option value="$PROJECT_DIR$/data_structure/2020-05/20200519/valid_parentheses.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="687" />
-    <option name="y" value="405" />
-    <option name="width" value="1740" />
-    <option name="height" value="775" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="2020-04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="2020-05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_daily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_daily" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="2020-05" type="462c0819:PsiDirectoryNode" />
-              <item name="20200519" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1dAI0HO9RNg5oTXRvjdy5qAEndf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/software/anaconda/envs/local/python.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python\python_daily\data_structure\2020-06" />
       <recent name="D:\python\python\python_daily\data_structure\2020-04" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.valid_parentheses">
-    <configuration name="add_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.remove_all_adjacent_duplicates_in_string">
+    <configuration name="remove_all_adjacent_duplicates_in_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,12 +68,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-04/20200424" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-06/20200628" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-04/20200424/add_strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-06/20200628/remove_all_adjacent_duplicates_in_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.remove_all_adjacent_duplicates_in_string" />
         <item itemvalue="Python.valid_parentheses" />
         <item itemvalue="Python.repeated_string_match" />
         <item itemvalue="Python.reverse_string_3" />
         <item itemvalue="Python.reverse_string_2" />
-        <item itemvalue="Python.add_strings" />
       </list>
     </recent_temporary>
   </component>
@@ -286,275 +202,79 @@
       <workItem from="1587689353783" duration="1439000" />
       <workItem from="1587865166792" duration="2343000" />
       <workItem from="1589784343493" duration="1255000" />
-      <workItem from="1589937263605" duration="3176000" />
+      <workItem from="1589937263605" duration="3314000" />
+      <workItem from="1591861247164" duration="643000" />
+      <workItem from="1591940691599" duration="1198000" />
+      <workItem from="1592447093909" duration="1198000" />
+      <workItem from="1593331737689" duration="1490000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43582000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1166" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1996008" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27562863" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3294686" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="SOQL Query" order="13" />
-      <window_info anchor="bottom" id="Log Analyzer" order="14" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Mongo Explorer" order="5" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="310" key="FileChooserDialogImpl" timestamp="1593332093238">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="310" key="FileChooserDialogImpl/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1593332093238" />
+    <state width="2005" height="250" key="GridCell.Tab.0.bottom" timestamp="1593333084995">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="250" key="GridCell.Tab.0.bottom/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1593333084995" />
+    <state width="2005" height="250" key="GridCell.Tab.0.center" timestamp="1593333084995">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="250" key="GridCell.Tab.0.center/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1593333084995" />
+    <state width="2005" height="250" key="GridCell.Tab.0.left" timestamp="1593333084995">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="250" key="GridCell.Tab.0.left/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1593333084995" />
+    <state width="2005" height="250" key="GridCell.Tab.0.right" timestamp="1593333084995">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="250" key="GridCell.Tab.0.right/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1593333084995" />
+    <state x="526" y="201" key="SettingsEditor" timestamp="1593332097862">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="201" key="SettingsEditor/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1593332097862" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1593332204272">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1593332204272" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_daily$remove_all_adjacent_duplicates_in_string.coverage" NAME="remove_all_adjacent_duplicates_in_string Coverage Results" MODIFIED="1593333084990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-06/20200628" />
+    <SUITE FILE_PATH="coverage/python_daily$buy_sell_stock_2.coverage" NAME="buy_sell_stock_2 Coverage Results" MODIFIED="1586915599883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200415" />
+    <SUITE FILE_PATH="coverage/python_daily$intersection_of_two_arrays_2.coverage" NAME="intersection_of_two_arrays_2 Coverage Results" MODIFIED="1587347225030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200419" />
+    <SUITE FILE_PATH="coverage/python_daily$reverse_string_2.coverage" NAME="reverse_string_2 Coverage Results" MODIFIED="1587866729493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200426" />
+    <SUITE FILE_PATH="coverage/python_daily$trans.coverage" NAME="trans Coverage Results" MODIFIED="1585880389998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_practice/screen_shot_translate" />
+    <SUITE FILE_PATH="coverage/python_daily$reverse_vowels_of_string.coverage" NAME="reverse_vowels_of_string Coverage Results" MODIFIED="1587347912871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200418" />
+    <SUITE FILE_PATH="coverage/python_daily$valid_parentheses.coverage" NAME="valid_parentheses Coverage Results" MODIFIED="1589940722845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-05/20200519" />
+    <SUITE FILE_PATH="coverage/python_daily$intersection_of_two_linked_list.coverage" NAME="intersection_of_two_linked_list Coverage Results" MODIFIED="1587431938940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200421" />
+    <SUITE FILE_PATH="coverage/python_daily$merge_sorted_array.coverage" NAME="merge-sorted-array Coverage Results" MODIFIED="1586512520377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200410" />
+    <SUITE FILE_PATH="coverage/python_daily$pascal_triangle.coverage" NAME="pascal_triangle Coverage Results" MODIFIED="1586917312747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200411" />
+    <SUITE FILE_PATH="coverage/python_daily$length_of_last_word.coverage" NAME="length_of_last_word Coverage Results" MODIFIED="1586239155901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/20200407" />
     <SUITE FILE_PATH="coverage/python_daily$add_strings.coverage" NAME="add_strings Coverage Results" MODIFIED="1587690842487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200424" />
+    <SUITE FILE_PATH="coverage/python_daily$search_in_position.coverage" NAME="search_in_position Coverage Results" MODIFIED="1586328056588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200408" />
+    <SUITE FILE_PATH="coverage/python_daily$rotate_array.coverage" NAME="rotate_array Coverage Results" MODIFIED="1587690248982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200422" />
+    <SUITE FILE_PATH="coverage/python_daily$repeated_string_match.coverage" NAME="repeated_string_match Coverage Results" MODIFIED="1589940105789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-05/20200518" />
     <SUITE FILE_PATH="coverage/python_daily$intersection_of_two_arrays.coverage" NAME="intersection_of_two_arrays Coverage Results" MODIFIED="1587345344128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200420" />
     <SUITE FILE_PATH="coverage/python_daily$buy_sell_stock.coverage" NAME="buy_sell_stock Coverage Results" MODIFIED="1586858490961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200414" />
-    <SUITE FILE_PATH="coverage/python_daily$reverse_string_2.coverage" NAME="reverse_string_2 Coverage Results" MODIFIED="1587866729493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200426" />
-    <SUITE FILE_PATH="coverage/python_daily$repeated_string_match.coverage" NAME="repeated_string_match Coverage Results" MODIFIED="1589940105789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-05/20200518" />
     <SUITE FILE_PATH="coverage/python_daily$power_of_four.coverage" NAME="power_of_four Coverage Results" MODIFIED="1587348354166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200417" />
-    <SUITE FILE_PATH="coverage/python_daily$pascal_triangle.coverage" NAME="pascal_triangle Coverage Results" MODIFIED="1586917312747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200411" />
-    <SUITE FILE_PATH="coverage/python_daily$intersection_of_two_linked_list.coverage" NAME="intersection_of_two_linked_list Coverage Results" MODIFIED="1587431938940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200421" />
     <SUITE FILE_PATH="coverage/python_daily$maximum_subarray_n.coverage" NAME="maximum_subarray_n Coverage Results" MODIFIED="1586403182255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200409" />
-    <SUITE FILE_PATH="coverage/python_daily$buy_sell_stock_2.coverage" NAME="buy_sell_stock_2 Coverage Results" MODIFIED="1586915599883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200415" />
-    <SUITE FILE_PATH="coverage/python_daily$search_in_position.coverage" NAME="search_in_position Coverage Results" MODIFIED="1586328056588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200408" />
-    <SUITE FILE_PATH="coverage/python_daily$trans.coverage" NAME="trans Coverage Results" MODIFIED="1585880389998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_practice/screen_shot_translate" />
-    <SUITE FILE_PATH="coverage/python_daily$valid_parentheses.coverage" NAME="valid_parentheses Coverage Results" MODIFIED="1589940722845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-05/20200519" />
-    <SUITE FILE_PATH="coverage/python_daily$length_of_last_word.coverage" NAME="length_of_last_word Coverage Results" MODIFIED="1586239155901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/20200407" />
     <SUITE FILE_PATH="coverage/python_daily$maximum_subarray.coverage" NAME="maximum_subarray Coverage Results" MODIFIED="1586402326526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200409" />
-    <SUITE FILE_PATH="coverage/python_daily$intersection_of_two_arrays_2.coverage" NAME="intersection_of_two_arrays_2 Coverage Results" MODIFIED="1587347225030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200419" />
-    <SUITE FILE_PATH="coverage/python_daily$reverse_vowels_of_string.coverage" NAME="reverse_vowels_of_string Coverage Results" MODIFIED="1587347912871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200418" />
-    <SUITE FILE_PATH="coverage/python_daily$rotate_array.coverage" NAME="rotate_array Coverage Results" MODIFIED="1587690248982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200422" />
-    <SUITE FILE_PATH="coverage/python_daily$merge_sorted_array.coverage" NAME="merge-sorted-array Coverage Results" MODIFIED="1586512520377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200410" />
     <SUITE FILE_PATH="coverage/python_daily$reverse_string_3.coverage" NAME="reverse_string_3 Coverage Results" MODIFIED="1587867309673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200425" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python_practice/screen_shot_translate/img/temp.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elasticsearch-study/mapping.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elasticsearch-study/populate.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200407/length_of_last_word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elasticsearch-study/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200409/maximum_subarray_nlogn.py" />
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200409/maximum_subarray_nn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" selection-start-line="13" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200411/pascal_triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200415/buy_sell_stock_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200414/buy_sell_stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200410/merge-sorted-array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200409/maximum_subarray_n.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200408/search_in_position.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_practice/screen_shot_translate/trans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-          <folding>
-            <element signature="e#199#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_practice/screen_shot_translate/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200416/path_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200412/second_highest_salary_sql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200413/delete_duplicate_emails.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="77" selection-start-line="25" selection-start-column="77" selection-end-line="25" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200420/intersection_of_two_arrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" selection-start-line="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200419/intersection_of_two_arrays_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200418/reverse_vowels_of_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200417/power_of_four.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200421/intersection_of_two_linked_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200422/rotate_array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200423/rising_temperature.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200424/add_strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200426/reverse_string_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="43" column="39" lean-forward="true" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-04/20200425/reverse_string_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-05/20200518/repeated_string_match.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-05/20200520/add_two_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/2020-05/20200519/valid_parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a25519c7-17f5-497c-a240-63c7c80156b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_structure/2020-07/20200717/delete_operation_for_two_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/2020-07/20200715/print_in_order.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,7 +207,7 @@
       <workItem from="1593331737689" duration="10366000" />
       <workItem from="1593566120756" duration="4872000" />
       <workItem from="1594084279740" duration="4502000" />
-      <workItem from="1594863422805" duration="5751000" />
+      <workItem from="1594863422805" duration="6448000" />
     </task>
     <servers />
   </component>
@@ -251,10 +251,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="526" y="201" key="SettingsEditor/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1593332097862" />
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1593336565328">
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1594951222764">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1593336565328" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1594951222764" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_daily$split_string_in_balanced_strings.coverage" NAME="split_string_in_balanced_strings Coverage Results" MODIFIED="1594086253584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-07/20200707" />

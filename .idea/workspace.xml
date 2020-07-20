@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a25519c7-17f5-497c-a240-63c7c80156b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_structure/2020-07/20200715/print_in_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/2020-07/20200720/shopping_offers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/2020-07/20200715/print_in_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/2020-07/20200715/print_in_order.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
       <recent name="D:\python\python\python_daily\data_structure\2020-04" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.delete_operation_for_two_strings">
+  <component name="RunManager" selected="Python.shopping_offers">
     <configuration name="delete_operation_for_two_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,6 +95,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-07/20200706/integer_to_roman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping_offers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_daily" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-07/20200720" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-07/20200720/shopping_offers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,35 +169,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="surface_area_of_3D_shapes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_daily" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-06/20200629" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-06/20200629/surface_area_of_3D_shapes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shopping_offers" />
         <item itemvalue="Python.delete_operation_for_two_strings" />
         <item itemvalue="Python.split_string_in_balanced_strings" />
         <item itemvalue="Python.integer_to_roman" />
         <item itemvalue="Python.subsets" />
-        <item itemvalue="Python.surface_area_of_3D_shapes" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +208,7 @@
       <workItem from="1593331737689" duration="10366000" />
       <workItem from="1593566120756" duration="4872000" />
       <workItem from="1594084279740" duration="4502000" />
-      <workItem from="1594863422805" duration="6448000" />
+      <workItem from="1594863422805" duration="8656000" />
     </task>
     <servers />
   </component>
@@ -231,22 +232,22 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="805" y="310" key="FileChooserDialogImpl/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1593332093238" />
-    <state width="2005" height="250" key="GridCell.Tab.0.bottom" timestamp="1594950080036">
+    <state width="2005" height="250" key="GridCell.Tab.0.bottom" timestamp="1595209152697">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="250" key="GridCell.Tab.0.bottom/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1594950080036" />
-    <state width="2005" height="250" key="GridCell.Tab.0.center" timestamp="1594950080036">
+    <state width="2005" height="250" key="GridCell.Tab.0.bottom/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1595209152697" />
+    <state width="2005" height="250" key="GridCell.Tab.0.center" timestamp="1595209152697">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="250" key="GridCell.Tab.0.center/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1594950080036" />
-    <state width="2005" height="250" key="GridCell.Tab.0.left" timestamp="1594950080036">
+    <state width="2005" height="250" key="GridCell.Tab.0.center/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1595209152697" />
+    <state width="2005" height="250" key="GridCell.Tab.0.left" timestamp="1595209152697">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="250" key="GridCell.Tab.0.left/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1594950080036" />
-    <state width="2005" height="250" key="GridCell.Tab.0.right" timestamp="1594950080036">
+    <state width="2005" height="250" key="GridCell.Tab.0.left/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1595209152697" />
+    <state width="2005" height="250" key="GridCell.Tab.0.right" timestamp="1595209152697">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="250" key="GridCell.Tab.0.right/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1594950080036" />
+    <state width="2005" height="250" key="GridCell.Tab.0.right/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1595209152697" />
     <state x="526" y="201" key="SettingsEditor" timestamp="1593332097862">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -259,6 +260,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_daily$split_string_in_balanced_strings.coverage" NAME="split_string_in_balanced_strings Coverage Results" MODIFIED="1594086253584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-07/20200707" />
     <SUITE FILE_PATH="coverage/python_daily$buy_sell_stock_2.coverage" NAME="buy_sell_stock_2 Coverage Results" MODIFIED="1586915599883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200415" />
+    <SUITE FILE_PATH="coverage/python_daily$shopping_offers.coverage" NAME="shopping_offers Coverage Results" MODIFIED="1595209152691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-07/20200720" />
     <SUITE FILE_PATH="coverage/python_daily$reverse_string_2.coverage" NAME="reverse_string_2 Coverage Results" MODIFIED="1587866729493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200426" />
     <SUITE FILE_PATH="coverage/python_daily$trans.coverage" NAME="trans Coverage Results" MODIFIED="1585880389998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_practice/screen_shot_translate" />
     <SUITE FILE_PATH="coverage/python_daily$reverse_vowels_of_string.coverage" NAME="reverse_vowels_of_string Coverage Results" MODIFIED="1587347912871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200418" />

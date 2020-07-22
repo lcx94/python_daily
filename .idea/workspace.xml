@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a25519c7-17f5-497c-a240-63c7c80156b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_structure/2020-07/20200721/find_and_replace_in_string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +207,7 @@
       <workItem from="1593566120756" duration="4872000" />
       <workItem from="1594084279740" duration="4502000" />
       <workItem from="1594863422805" duration="10513000" />
-      <workItem from="1595310682881" duration="2378000" />
+      <workItem from="1595310682881" duration="11859000" />
     </task>
     <servers />
   </component>

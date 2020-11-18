@@ -1,70 +1,25 @@
 # -*- coding:utf-8 _*-
 '''
 @author: lcx
-@file: data-process.py
-@time: 2020/11/14 15:10
-@desc:  AI专利报告数据处理
-
+@file: subtraction_title_final_analysis.py
+@time: 2020/11/18 10:17
+@desc: 
 '''
-
-import cx_Oracle as cx
-
-import os
-os.environ['path'] = r'D:\navicat\Navicat Premium 12\instantclient_12_2'
-
-conn = cx.connect('PATSTAT_GROUP2', 'D7zVwMR8', 'db.imcluster.cc:1521/patstat2020a')
-cursor = conn.cursor()
-cursor.execute('SELECT * FROM PATSTAT2020A.AI_PAT_TITLE')
+import csv
 
 
-def get_data():
-    data = cursor.fetchmany(10)
-    count = 0
-    while count <= 200000 and data is not None:
-        data = cursor.fetchmany(10)
-        do_calculate(data, count)
-        count += 1
-    cursor.close()
-    conn.close()
-
-
-def do_calculate(data, count):
-    # 统计总体数据缺失
-    statistic_all(data, count)
-    # 统计分类情况
-    # statistic_class(data)
-    # 统计和IPC表的交集、差集情况
-    # statistic_IPC(data)
-    # 验证抽取准确率的问题   抽样10
-    statistic_TITLE(data[0][1], count)
-
-
-total_number = 0
-total_loss_title = 0
-total_short_title = 0
-short_title_list = []
-def statistic_all(data, count):
-    global total_number
-    global total_loss_title
-    global total_short_title
-    global short_title_list
-    for item in data:
-        total_number += 1
-        if item[0] and not item[1]:
-            total_loss_title += 1
-        if item[0] and len(item[1]) < 16:
-            total_short_title += 1
-            short_title_list.append(item[1])
-    # title 缺失率：
-    title_loss_rate = total_loss_title/total_number * 100
-    # short title rate
-    short_title_rate = total_short_title/total_number * 100
-    if count == 200000:
-        print('-----total title list length is {}------'.format(total_number))
-        print('-----title loss rate is ------{}%======'.format(round(title_loss_rate, 3)))
-        print('-----short title rate is ------{}%======'.format(round(short_title_rate, 3)))
-        print('-----short title list length is {}------'.format(len(short_title_list)))
-        print(short_title_list)
+loss_title_list = []
+def read_data():
+    global loss_title_list
+    with open('./data/title_final.csv', 'r', encoding='ISO-8859-1') as filereader:
+        f_csv = csv.reader(filereader)
+        for row in f_csv:
+            print(row)
+            if row[0] != 'APPLN_ID':
+                loss_title_list.append(row[1])
+    print(len(loss_title_list))
+    print('------------------------------------')
+    analysis_title()
 
 
 title_list = [
@@ -372,50 +327,35 @@ title_list = [
     ]
 title_statistic = dict.fromkeys(title_list, 0)
 not_found_title = []
-def statistic_TITLE(title, count):
+title_statistic_list = []
+def analysis_title():
+    global loss_title_list
     global title_statistic
-    global not_found_title
-    title_upper = title.upper()
-    # 标识 title 与检索词是匹配的
-    is_in_keywords = False
-    for item in title_list:
-        item_upper = item.upper()
-        if item_upper in title_upper:
-            title_statistic[item] += 1
-            # 找到了对应的检索词
-            is_in_keywords = True
-    if not is_in_keywords:
-        # 当前title不在tile list 中
-        not_found_title.append(title)
-    title_statistic_list = []
+    for title in loss_title_list:
+        # 标识 title 与检索词是匹配的
+        is_in_keywords = False
+        title_upper = title.upper()
+        for item in title_list:
+            item_upper = item.upper()
+            if item_upper in title_upper:
+                title_statistic[item] += 1
+                # 找到了对应的检索词
+                is_in_keywords = True
+        if not is_in_keywords:
+            # 当前title不在tile list 中
+            not_found_title.append(title)
     for dic in title_statistic.items():
         title_statistic_list.append(dic)
     title_statistic_list.sort(key=lambda k: k[1], reverse=True)
-    # 最多 最少 的十个检索词
-    if count == 200000:
-        max_ten_list = title_statistic_list[:10]
-        min_ten_list = title_statistic_list[-10:]
-        print('=====the max ten classes of AI title is =========')
-        print(max_ten_list)
-        print('=====the min ten classes of AI title is =========')
-        print(min_ten_list)
-        # 没有内容的所有检索词
-        empty_list = []
-        for item in title_statistic_list:
-            if item[1] == 0:
-                empty_list.append(item)
-        print('=====the empty list of AI search keywords is =======')
-        print(empty_list)
-        print('=====not found title number is =========')
-        print(len(not_found_title))
-
+    max_ten_list = title_statistic_list[:10]
+    min_ten_list = title_statistic_list[-10:]
+    print('=====the max ten classes of loss title is =========')
+    print(max_ten_list)
+    print('=====the min ten classes of loss title is =========')
+    print(min_ten_list)
+    print('=====not found title number is =========')
+    print(len(not_found_title))
 
 
 if __name__ == '__main__':
-    get_data()
-
-    # 获取title表和final表的差集（final表做appln_id去重）
-
-
-    # 从ipc表中统计不同分类出现的次数
-    'SELECT SUBSTR(IPC_CLASS_SYMBOL, 0, 4) AS "ipc_class", COUNT(*) AS "times" FROM "AI_IPC" GROUP BY "IPC_CLASS_SYMBOL"'
+    read_data()

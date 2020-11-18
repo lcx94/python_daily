@@ -20,9 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a25519c7-17f5-497c-a240-63c7c80156b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_structure/2020-09/20200922/generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structure/2020-09/20200922/python_debugger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nju/AI-report/check_title_final_different.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nju/AI-report/get_different.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nju/AI-report/subtraction_title_final_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nju/AI-report/test_check_minus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nju/AI-report/data-process.py" beforeDir="false" afterPath="$PROJECT_DIR$/nju/AI-report/data-process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nju/AI-report/short_title" beforeDir="false" afterPath="$PROJECT_DIR$/nju/AI-report/data/short_title" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +51,45 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nju/AI-report/data" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python\python_daily\nju\AI-report\data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python\python_daily\nju\AI-report\data" />
       <recent name="E:\python\python_daily\data_structure\2020-06" />
       <recent name="D:\python\python\python_daily\data_structure\2020-04" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.data-process">
+  <component name="RunManager" selected="Python.subtraction_title_final_analysis">
+    <configuration name="check_title_final_different" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_daily" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nju/AI-report" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nju/AI-report/check_title_final_different.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="data-process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="get_different" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,12 +120,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-09/20200922" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nju/AI-report" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-09/20200922/generators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nju/AI-report/get_different.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="group_the_people" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="subtraction_title_final_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,12 +142,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-07/20200728" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nju/AI-report" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-07/20200728/group_the_people.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nju/AI-report/subtraction_title_final_analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_debugger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_check_minus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,34 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-09/20200922" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nju/AI-report" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-09/20200922/python_debugger.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="running_sum_1array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_daily" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/2020-07/20200731" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/2020-07/20200731/running_sum_1array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nju/AI-report/test_check_minus.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.subtraction_title_final_analysis" />
+        <item itemvalue="Python.test_check_minus" />
+        <item itemvalue="Python.get_different" />
+        <item itemvalue="Python.check_title_final_different" />
         <item itemvalue="Python.data-process" />
-        <item itemvalue="Python.generators" />
-        <item itemvalue="Python.python_debugger" />
-        <item itemvalue="Python.running_sum_1array" />
-        <item itemvalue="Python.group_the_people" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +227,7 @@
       <workItem from="1602207470487" duration="4266000" />
       <workItem from="1603071120697" duration="598000" />
       <workItem from="1605337787995" duration="724000" />
-      <workItem from="1605338520246" duration="9288000" />
+      <workItem from="1605338520246" duration="41548000" />
     </task>
     <servers />
   </component>
@@ -243,26 +251,30 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="760" y="357" key="#com.intellij.fileTypes.FileTypeChooser/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605348329295" />
-    <state width="2005" height="348" key="GridCell.Tab.0.bottom" timestamp="1605347281613">
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1605599821321">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="348" key="GridCell.Tab.0.bottom/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605347281613" />
-    <state width="2005" height="348" key="GridCell.Tab.0.center" timestamp="1605347281613">
+    <state x="805" y="311" key="FileChooserDialogImpl/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605599821321" />
+    <state width="2005" height="368" key="GridCell.Tab.0.bottom" timestamp="1605666605120">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="348" key="GridCell.Tab.0.center/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605347281613" />
-    <state width="2005" height="348" key="GridCell.Tab.0.left" timestamp="1605347281612">
+    <state width="2005" height="368" key="GridCell.Tab.0.bottom/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605666605120" />
+    <state width="2005" height="368" key="GridCell.Tab.0.center" timestamp="1605666605120">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="348" key="GridCell.Tab.0.left/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605347281612" />
-    <state width="2005" height="348" key="GridCell.Tab.0.right" timestamp="1605347281613">
+    <state width="2005" height="368" key="GridCell.Tab.0.center/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605666605120" />
+    <state width="2005" height="368" key="GridCell.Tab.0.left" timestamp="1605666605120">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="348" key="GridCell.Tab.0.right/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605347281613" />
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1605345663239">
+    <state width="2005" height="368" key="GridCell.Tab.0.left/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605666605120" />
+    <state width="2005" height="368" key="GridCell.Tab.0.right" timestamp="1605666605120">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605345663239" />
+    <state width="2005" height="368" key="GridCell.Tab.0.right/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605666605120" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1605576117396">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/2560.217.2048.1112/0.0.2048.1112@0.0.2048.1112" timestamp="1605576117396" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_daily$split_string_in_balanced_strings.coverage" NAME="split_string_in_balanced_strings Coverage Results" MODIFIED="1594086253584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-07/20200707" />
@@ -271,6 +283,9 @@
     <SUITE FILE_PATH="coverage/python_daily$reverse_string_2.coverage" NAME="reverse_string_2 Coverage Results" MODIFIED="1587866729493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200426" />
     <SUITE FILE_PATH="coverage/python_daily$trans.coverage" NAME="trans Coverage Results" MODIFIED="1585880389998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_practice/screen_shot_translate" />
     <SUITE FILE_PATH="coverage/python_daily$reverse_vowels_of_string.coverage" NAME="reverse_vowels_of_string Coverage Results" MODIFIED="1587347912871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200418" />
+    <SUITE FILE_PATH="coverage/python_daily$get_different.coverage" NAME="get_different Coverage Results" MODIFIED="1605615619789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nju/AI-report" />
+    <SUITE FILE_PATH="coverage/python_daily$test_check_minus.coverage" NAME="test_check_minus Coverage Results" MODIFIED="1605663839651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nju/AI-report" />
+    <SUITE FILE_PATH="coverage/python_daily$subtraction_title_final_analysis.coverage" NAME="subtraction_title_final_analysis Coverage Results" MODIFIED="1605666605115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nju/AI-report" />
     <SUITE FILE_PATH="coverage/python_daily$valid_parentheses.coverage" NAME="valid_parentheses Coverage Results" MODIFIED="1589940722845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-05/20200519" />
     <SUITE FILE_PATH="coverage/python_daily$intersection_of_two_linked_list.coverage" NAME="intersection_of_two_linked_list Coverage Results" MODIFIED="1587431938940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200421" />
     <SUITE FILE_PATH="coverage/python_daily$merge_sorted_array.coverage" NAME="merge-sorted-array Coverage Results" MODIFIED="1586512520377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200410" />
@@ -291,6 +306,7 @@
     <SUITE FILE_PATH="coverage/python_daily$remove_all_adjacent_duplicates_in_string.coverage" NAME="remove_all_adjacent_duplicates_in_string Coverage Results" MODIFIED="1593333084990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-06/20200628" />
     <SUITE FILE_PATH="coverage/python_daily$intersection_of_two_arrays_2.coverage" NAME="intersection_of_two_arrays_2 Coverage Results" MODIFIED="1587347225030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200419" />
     <SUITE FILE_PATH="coverage/python_daily$integer_to_roman.coverage" NAME="integer_to_roman Coverage Results" MODIFIED="1594000701281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-07/20200706" />
+    <SUITE FILE_PATH="coverage/python_daily$check_title_final_different.coverage" NAME="check_title_final_different Coverage Results" MODIFIED="1605613636711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nju/AI-report" />
     <SUITE FILE_PATH="coverage/python_daily$pascal_triangle.coverage" NAME="pascal_triangle Coverage Results" MODIFIED="1586917312747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-04/20200411" />
     <SUITE FILE_PATH="coverage/python_daily$find_and_replace_in_string.coverage" NAME="find_and_replace_in_string Coverage Results" MODIFIED="1595312448213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-07/20200721" />
     <SUITE FILE_PATH="coverage/python_daily$group_the_people.coverage" NAME="group_the_people Coverage Results" MODIFIED="1595927051807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure/2020-07/20200728" />
